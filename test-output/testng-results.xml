@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17411" started-at="2016-09-03T09:04:57Z" finished-at="2016-09-03T09:05:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17411" started-at="2016-09-03T09:04:57Z" finished-at="2016-09-03T09:05:14Z">
+      <class name="com.ERP.master.Pomexe">
+        <test-method status="PASS" signature="Lexe()[pri:0, instance:com.ERP.master.Pomexe@7ac7a4e4]" name="Lexe" duration-ms="17376" started-at="2016-09-03T14:34:57Z" finished-at="2016-09-03T14:35:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lexe -->
+      </class> <!-- com.ERP.master.Pomexe -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
